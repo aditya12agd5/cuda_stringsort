@@ -1,4 +1,5 @@
-CUDA/Thrust GPU Implementation of "Can GPUs Sort Strings Efficiently?" HiPC'13
+CUDA/Thrust GPU Implementation of "[Can GPUs Sort Strings Efficiently?](http://ardeshp2.web.engr.illinois.edu/papers/Aditya13StringSort.pdf)" HiPC'13
+
 By: Aditya Deshpande and P J Narayanan
 
 The code is tested with cuda-7.5
